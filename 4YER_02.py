@@ -21,7 +21,7 @@ Assunto:
         
 Disponível em:
              
-    https://github.com/GM2SC/DEVELOPMENT-OF-MATHEMATICAL-METHODS-IN-COMPUTATIONAL-ENVIRONMENT/blob/master/SENGI_2020/Fourier_02.py
+    https://github.com/gm2sc-ifpa/4YER/edit/master/4YER_02.py
     
 """
 print('')
