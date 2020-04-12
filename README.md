@@ -1,3 +1,12 @@
-# 4YER
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/39010251/79080319-3add6200-7cea-11ea-844a-287db01f6387.gif)
+<h3 align="center">4YER</h3>
+<br />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/39010251/79080319-3add6200-7cea-11ea-844a-287db01f6387.gif" alt="Logo">
+  <p align="center">
+    <img src="https://img.shields.io/github/issues/gm2sc-ifpa/4YER" />
+    <img src="https://img.shields.io/github/stars/gm2sc-ifpa/4YER" />
+    <img src="https://img.shields.io/github/forks/gm2sc-ifpa/4YER" />
+    <img src="https://img.shields.io/github/license/gm2sc-ifpa/4YER" />
+    <br />
+  </p>
+</p>
