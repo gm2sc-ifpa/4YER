@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/github/issues/gm2sc-ifpa/4YER" />
     <img src="https://img.shields.io/github/stars/gm2sc-ifpa/4YER" />
     <img src="https://img.shields.io/github/forks/gm2sc-ifpa/4YER" />
+     <a href="https://doi.org/10.5281/zenodo.3749387"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3749387.svg" /></a>
     <img src="https://img.shields.io/github/license/gm2sc-ifpa/4YER" />
     <br />
   </p>
